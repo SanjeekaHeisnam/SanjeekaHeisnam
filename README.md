@@ -1,3 +1,4 @@
+![logo](https://github.com/SanjeekaHeisnam/SanjeekaHeisnam/blob/main/github%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Heisnam Sanjeeka Devi</h1>
 <h3 align="center">From Lines of Code to Innovation.</h3>
 <img align="right"alt="coding" width="400" src="coding.gif">
